@@ -120,7 +120,7 @@ This assignment demonstrates an understanding of:
 As part of this assignment, I created a video presentation explaining the concepts covered in this repository.
 
 **Watch the presentation:**
-[Data Structures Explained: Stacks, Queues, Circular Queues & Binary Search Trees](PASTE-YOUR-YOUTUBE-LINK-HERE)
+[Data Structures Explained: Stacks, Queues, Circular Queues & Binary Search Trees](https://youtu.be/9L1xOexUW8c)
 
 ## Technologies and Concepts
 
@@ -147,9 +147,30 @@ This assignment provided an opportunity to study how different data structures o
 
 The accompanying presentation demonstrates my understanding of these concepts and provides explanations of the structures, their operations, and their practical applications.
 
+## References
+
+1. OpenDSA. “Binary Trees.” Virginia Tech. Covers binary tree definitions, properties, traversals, binary search trees, insertion, removal, and analysis.
+   [OpenDSA – Binary Trees and Binary Search Trees](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS2/html/BinaryTree.html?utm_source=chatgpt.com)
+
+2. MIT OpenCourseWare. “Binary Search Trees.” Introduction to Algorithms, Massachusetts Institute of Technology. Provides implementations and explanations of binary search tree operations.
+   [MIT OpenCourseWare – Binary Search Trees](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/readings/binary-search-trees/?utm_source=chatgpt.com)
+
+3. MIT OpenCourseWare. “Lecture 5: Binary Search Trees, BST Sort.” Introduction to Algorithms. Covers binary search trees, insertion, searching, and finding minimum elements.
+   [MIT OpenCourseWare – Binary Search Trees Lecture](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-5-binary-search-trees-bst-sort/?utm_source=chatgpt.com)
+
+4. GeeksforGeeks. “Introduction to Binary Search Tree.” Provides an overview of BST structure, ordering rules, properties, and operations.
+   [GeeksforGeeks – Introduction to Binary Search Tree](https://www.geeksforgeeks.org/dsa/introduction-to-binary-search-tree/?utm_source=chatgpt.com)
+
+5. GeeksforGeeks. “What is Binary Tree?” Provides definitions and properties of binary trees, including nodes, children, and tree structure.
+   [GeeksforGeeks – What is Binary Tree?](https://www.geeksforgeeks.org/dsa/what-is-binary-tree/?utm_source=chatgpt.com)
+
+6. GeeksforGeeks. “Searching in Binary Search Tree (BST).” Explains the process of searching for values by comparing the target with each node and choosing the appropriate subtree.
+   [GeeksforGeeks – Searching in Binary Search Tree](https://www.geeksforgeeks.org/dsa/binary-search-tree-set-1-search-and-insertion/?utm_source=chatgpt.com)
+
+
 ## Author
 
-**Bob Josh**
+**Dax Meyer**
 
-Bachelor of Science in Computer Science
+Computer Science
 Concordia University Chicago
