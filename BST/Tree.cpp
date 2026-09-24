@@ -45,7 +45,7 @@ template<typename NODETYPE>
 void Tree<NODETYPE>::insertNodeHelper(TreeNode<NODETYPE> **ptr, const NODETYPE &value)
 {
 
-cout << "DEBUG: ptr=" << *ptr << " value=" << value << endl;
+
     if (*ptr == nullptr)                          
     {
         *ptr = new TreeNode<NODETYPE>(value);
