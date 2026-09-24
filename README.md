@@ -122,6 +122,10 @@ As part of this assignment, I created a video presentation explaining the concep
 **Watch the presentation:**
 [Data Structures Explained: Stacks, Queues, Circular Queues & Binary Search Trees](https://youtu.be/9L1xOexUW8c)
 
+## LinkedIn
+
+LinkedIn - https://lnkd.in/p/gQuNMJhc
+
 ## Technologies and Concepts
 
 **Course:** Data Structures and Algorithms II
