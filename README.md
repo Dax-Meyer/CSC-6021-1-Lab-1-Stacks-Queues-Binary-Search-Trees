@@ -153,23 +153,31 @@ The accompanying presentation demonstrates my understanding of these concepts an
 
 ## References
 
-1. OpenDSA. “Binary Trees.” Virginia Tech. Covers binary tree definitions, properties, traversals, binary search trees, insertion, removal, and analysis.
-   [OpenDSA – Binary Trees and Binary Search Trees](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS2/html/BinaryTree.html?utm_source=chatgpt.com)
+Stacks and Queues
 
-2. MIT OpenCourseWare. “Binary Search Trees.” Introduction to Algorithms, Massachusetts Institute of Technology. Provides implementations and explanations of binary search tree operations.
-   [MIT OpenCourseWare – Binary Search Trees](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/readings/binary-search-trees/?utm_source=chatgpt.com)
+    OpenDSA. “Stacks and Queues.” Virginia Tech. Covers stack and queue concepts, operations, implementations, and applications.
+    OpenDSA – Stacks and Queues
+    GeeksforGeeks. “Stack Data Structure.” Provides an overview of stacks, including LIFO behavior, push, pop, peek, overflow, underflow, and common applications.
+    GeeksforGeeks – Stack Data Structure
+    GeeksforGeeks. “Queue Data Structure.” Explains FIFO behavior, enqueue, dequeue, front and rear positions, and common queue applications.
+    GeeksforGeeks – Queue Data Structure
+    GeeksforGeeks. “Circular Queue.” Covers circular queue structure, wrap-around behavior, enqueue and dequeue operations, and efficient reuse of array space.
+    GeeksforGeeks – Circular Queue
 
-3. MIT OpenCourseWare. “Lecture 5: Binary Search Trees, BST Sort.” Introduction to Algorithms. Covers binary search trees, insertion, searching, and finding minimum elements.
-   [MIT OpenCourseWare – Binary Search Trees Lecture](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-5-binary-search-trees-bst-sort/?utm_source=chatgpt.com)
+Binary Trees and Binary Search Trees
 
-4. GeeksforGeeks. “Introduction to Binary Search Tree.” Provides an overview of BST structure, ordering rules, properties, and operations.
-   [GeeksforGeeks – Introduction to Binary Search Tree](https://www.geeksforgeeks.org/dsa/introduction-to-binary-search-tree/?utm_source=chatgpt.com)
-
-5. GeeksforGeeks. “What is Binary Tree?” Provides definitions and properties of binary trees, including nodes, children, and tree structure.
-   [GeeksforGeeks – What is Binary Tree?](https://www.geeksforgeeks.org/dsa/what-is-binary-tree/?utm_source=chatgpt.com)
-
-6. GeeksforGeeks. “Searching in Binary Search Tree (BST).” Explains the process of searching for values by comparing the target with each node and choosing the appropriate subtree.
-   [GeeksforGeeks – Searching in Binary Search Tree](https://www.geeksforgeeks.org/dsa/binary-search-tree-set-1-search-and-insertion/?utm_source=chatgpt.com)
+    OpenDSA. “Binary Trees.” Virginia Tech. Covers binary tree definitions, properties, traversals, binary search trees, insertion, removal, and analysis.
+    OpenDSA – Binary Trees and Binary Search Trees
+    MIT OpenCourseWare. “Binary Search Trees.” Introduction to Algorithms, Massachusetts Institute of Technology. Provides explanations of binary search tree structure and operations.
+    MIT OpenCourseWare – Binary Search Trees
+    MIT OpenCourseWare. “Lecture 5: Binary Search Trees, BST Sort.” Introduction to Algorithms. Covers binary search trees, searching, insertion, and finding minimum elements.
+    MIT OpenCourseWare – Binary Search Trees Lecture
+    GeeksforGeeks. “Introduction to Binary Search Tree.” Provides an overview of BST structure, ordering rules, properties, and operations.
+    GeeksforGeeks – Introduction to Binary Search Tree
+    GeeksforGeeks. “What is Binary Tree?” Provides definitions and properties of binary trees, including nodes, children, and tree structure.
+    GeeksforGeeks – What is Binary Tree?
+    GeeksforGeeks. “Searching in Binary Search Tree (BST).” Explains how BST searching compares a target value with each node and selects the appropriate subtree.
+    GeeksforGeeks – Searching in Binary Search Tree
 
 
 ## Author
